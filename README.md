@@ -1,1 +1,1 @@
-# bare-metal-mcu
+# bare-metal
