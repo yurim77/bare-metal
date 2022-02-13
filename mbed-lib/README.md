@@ -1,5 +1,6 @@
 # mbed-lib
-
+MBED Library를 사용하여 MCU 제어 프로그램을 개발<br/>
+베어 메탈 프로그래밍을 위한 기초<br/>
 ├── calculator.cpp<br/>
 ├── handle_rgb_led.cpp<br/>
 ├── store_rgb_led.cpp<br/>
