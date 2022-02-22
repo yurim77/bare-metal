@@ -1,6 +1,6 @@
 # bare-metal
 
-보드 : STM NUCLEO F401RE CPU Board
+보드 : STM NUCLEO F401RE CPU Board  
 MCU : ARM cortex M4
 
 |인덱스|디렉토리 이름|설명|
