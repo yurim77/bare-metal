@@ -1,7 +1,7 @@
 # bare-metal
 
-보드 : Cortex-M4-Keil platform  
-MCU : STM NUCLEO F401RE
+보드 : STM NUCLEO F401RE CPU Board
+MCU : ARM cortex M4
 
 |인덱스|디렉토리 이름|설명|
 |------|------------|----|
